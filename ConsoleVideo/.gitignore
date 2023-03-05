@@ -1,0 +1,36 @@
+# Build artifacts
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+
+# Visual Studio files
+*.visualstudio
+*.vscode
+.vs/
+*.sln
+*.suo
+*.cache
+*.csproj.user
+*.resharper.user
+
+# Other files
+desktop.ini
+Thumbs.db
+*.log
+*.config.user
